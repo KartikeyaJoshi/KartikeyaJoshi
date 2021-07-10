@@ -1,4 +1,4 @@
-- Hi, I’m KartikeyaJoshi
+- Hi, I’m Kartikeya Joshi
 - I’m interested in coding
 - You can reach me by mailing at kartikeyajoshi1234@gmail.com
 
