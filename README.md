@@ -1,4 +1,4 @@
-- Hi, I’m @KartikeyaJoshi
+- Hi, I’m KartikeyaJoshi
 - I’m interested in coding
 - I'am a Web Developer
 - You can reach me by mailing me at kartikeyajoshi1234@gmail.com
