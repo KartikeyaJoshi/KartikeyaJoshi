@@ -1,6 +1,7 @@
 - Hi, I’m @KartikeyaJoshi
 - I’m interested in coding
-- 📫 You can reach me by mailing me at kartikeyajoshi1234@gmail.com
+- I'am a Web Developer
+- You can reach me by mailing me at kartikeyajoshi1234@gmail.com
 
 <!---
 KartikeyaJoshi/KartikeyaJoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
