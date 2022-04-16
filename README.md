@@ -1,5 +1,5 @@
 - Hi, I’m Kartikeya Joshi
-- I’m interested in coding
+- I’m a coding enthusiast
 - You can reach me by mailing at kartikeyajoshi1234@gmail.com
 
 <!---
